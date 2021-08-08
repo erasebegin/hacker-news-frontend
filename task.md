@@ -1,0 +1,5 @@
+- [x] display top 10 posts
+- [x] create collapsible panel for each post
+  - [x] contains metadata
+  - [ ] contains top 3 comments (and comment metadata)
+    - [ ] display top 3 children of comment
